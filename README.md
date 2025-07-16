@@ -29,3 +29,4 @@ Conclusion
 Bluetooth-based home automation systems are an excellent starting point for learning and implementing smart control in homes. They offer wireless convenience, are cost-effective, and are easy to set up using simple hardware and coding. Despite their limitations in range and scalability, such systems provide a solid foundation for building more advanced automation projects and are ideal for small homes or rooms where basic appliance control is needed. As technology advances, Bluetooth can also be integrated with voice control and sensors for a more interactive and efficient smart home environment.
 *OUTPUT- 
 <img width="454" height="270" alt="Image" src="https://github.com/user-attachments/assets/1cd0751a-450f-49ba-b29a-4ed247956508" />
+<img width="726" height="310" alt="Image" src="https://github.com/user-attachments/assets/a3c23f2d-54c8-41e8-8003-3bc9a669000d" />
